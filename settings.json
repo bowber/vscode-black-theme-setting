@@ -1,0 +1,8 @@
+{
+  "workbench.colorCustomizations": {
+    // Turn everything blue into black
+    "statusBar.background": "#000000",
+    "button.background": "#000000",
+    "activityBarBadge.background": "#000000"
+  }
+}
